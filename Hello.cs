@@ -1,5 +1,5 @@
 using static System.Console;
-class: Hello
+class Hello
 {
    static void Main()
    {
